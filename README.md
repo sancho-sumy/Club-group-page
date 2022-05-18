@@ -1,6 +1,6 @@
 # Club group page
 
-Codecademy Challenge Project: Responsive Club Website
+## Codecademy Challenge Project: Responsive Club Website
 
 Project Goals
 In this project, you’ll be building your own club group page that will dynamically respond as you adjust the size of your screen!​
